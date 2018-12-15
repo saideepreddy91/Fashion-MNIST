@@ -36,6 +36,6 @@ Configurations to run all the models can be found inside config.py
 * 2Conv+3FC_BN_Dropout_boosted.ipynb
 * 2Conv+3FC_BN_Dropout_without_boosting.ipynb
 * VGG16.ipynb
-* VGG16_Resnet18_SqueezeNet_Fashion_MNIST.ipynb
+* VGG16_Resnet18_Fashion_MNIST.ipynb
 * VGG16_data_augmentation.ipynb
 
